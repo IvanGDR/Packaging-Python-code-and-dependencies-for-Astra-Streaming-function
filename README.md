@@ -1,7 +1,9 @@
 # Packaging Python Code and Dependencies for Astra Streaming Function - (Python Zip file)
 
 >Notes:
-For this task I am using a virtual environment by this may not need neccesary. The python version being used is 3.8.
+>For this task I am using a virtual environment but this may not need neccesary.
+>
+>The python version being used is 3.8.
 >
 >The .zip file to upload in Astra Sreaming, as of 5th Dec 2022, should not be more than 1GB weight or contain more than 5000 files. 
 
