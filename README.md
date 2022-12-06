@@ -2,7 +2,7 @@
 
 >Notes:
 >
->For this task I am using a virtual environment but this may not need neccesary.
+>For this task I am using a virtual environment but this may not neccesary.
 >
 >The python version being used is 3.8.
 >
