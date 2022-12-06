@@ -123,7 +123,7 @@ The structure of the directory should be:
 
 #### 5) Install the dependancies to a newly created "package" directory. For this example, I am installing "arrow" dependencies if you want to add more dependancies execute the same or pass a list of packages to "pip install".
 
-Note from where the following two commands are being executed, this is the working directory created in step  2.
+>Note from where the following command is being executed, this is the working directory created in step  2.
 
 Creating package directory and installing "arrow" dependancy
 ```
