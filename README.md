@@ -71,7 +71,7 @@ And the final result:
 -rw-rw-r-- ivang ivang   394 Dec  5 10:47 my_astra_function.py
 -rw-rw-r-- ivang ivang   195 Dec  5 10:58 my_function_package.zip
 ```
-Upload your file in Astra Streaming afterwards. The class to choose will be the name of your file without .py extension and the class being used within the scripts. e.g. "my_astra_function.<your_class>" 
+Upload your .zip file in Astra Streaming afterwards. The class to choose will be the name of your file without .py extension and the class being used within the scripts. e.g. "my_astra_function.<your_class>" 
 
 [Astra Streaming Functions : DataStax Astra Streaming](https://docs.datastax.com/en/astra-streaming/docs/astream-functions.html)
 
@@ -229,6 +229,6 @@ The final result and the structure of the working directory as follows:
 drwxrwxr-x 16 ivang ivang     4096 Dec  5 10:53 package
 ```
 
-Upload your file in Astra Streaming afterwards. The class to choose will be the name of your file without .py extension and the class being used within the scripts. e.g. "my_astra_function.<your_class>" 
+Upload your .zip file in Astra Streaming afterwards. The class to choose will be the name of your file without .py extension and the class being used within the scripts. e.g. "my_astra_function.<your_class>" 
 
 [Astra Streaming Functions : DataStax Astra Streaming](https://docs.datastax.com/en/astra-streaming/docs/astream-functions.html)
