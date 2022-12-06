@@ -1,6 +1,6 @@
 # Packaging Python Code and Dependencies for Astra Streaming Function - (Python Zip file)
 
->Notes:
+>Notes:/n
 >For this task I am using a virtual environment but this may not need neccesary.
 >
 >The python version being used is 3.8.
